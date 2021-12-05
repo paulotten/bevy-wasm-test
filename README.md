@@ -2,6 +2,8 @@
 
 [Install Rust](https://www.rust-lang.org/tools/install)
 
+Then do:
+
     rustup target add wasm32-unknown-unknown
 
     cargo install wasm-pack
