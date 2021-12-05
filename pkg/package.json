@@ -1,0 +1,12 @@
+{
+  "name": "card",
+  "version": "0.1.0",
+  "files": [
+    "card_bg.wasm",
+    "card.js",
+    "card.d.ts"
+  ],
+  "module": "card.js",
+  "types": "card.d.ts",
+  "sideEffects": false
+}
