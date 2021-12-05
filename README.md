@@ -18,6 +18,6 @@ If you run into https://github.com/bevyengine/bevy/issues/3099 then do
 
 # Running locally
 
-    wasm-pack build --target web --release
+    python -m http.server
 
 Open http://127.0.0.1:8000/pkg/ in a web browser.
